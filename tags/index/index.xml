@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Monochrome Horses</title>
-    <link>https://mono.co.uk/tags/index/</link>
+    <link>https://x-y-l.github.io/tags/index/</link>
     <description>Recent content in index on Monochrome Horses</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://mono.co.uk/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://x-y-l.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https://mono.co.uk/post/</link>
+      <link>https://x-y-l.github.io/post/</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mono.co.uk/post/</guid>
+      <guid>https://x-y-l.github.io/post/</guid>
       <description></description>
     </item>
     

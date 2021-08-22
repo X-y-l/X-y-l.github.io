@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Analysis on Monochrome Horses</title>
-    <link>https://mono.co.uk/categories/analysis/</link>
+    <link>https://x-y-l.github.io/categories/analysis/</link>
     <description>Recent content in Analysis on Monochrome Horses</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mono.co.uk/categories/analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://x-y-l.github.io/categories/analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cardinalities</title>
-      <link>https://mono.co.uk/post/1_cardinalities/</link>
+      <link>https://x-y-l.github.io/post/1_cardinalities/</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mono.co.uk/post/1_cardinalities/</guid>
+      <guid>https://x-y-l.github.io/post/1_cardinalities/</guid>
       <description>&lt;p&gt;
 As my first official blog post, I decided to further investigate a topic that I already have prior knowledge of, and a rather non-controversial one at that, but still one that has quite a weird and interesting result.
 &lt;/p&gt;</description>
